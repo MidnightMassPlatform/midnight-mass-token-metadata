@@ -1,6 +1,7 @@
 {
   "name": "Midnight Mass",
   "symbol": "MASS",
-  "description": "The official token of Midnight Mass",
-  "image": "https://github.com/MidnightMassPlatform/midnight-mass-token-metadata/blob/main/Midnightmasswinneer.png?raw=true"
+  "description": "Midnight Mass",
+  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/Midnightmasswinneer.png",
+  "seller_fee_basis_points": 0
 }
