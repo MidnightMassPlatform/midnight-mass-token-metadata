@@ -1,7 +1,13 @@
 {
-  "name": "Midnight Mass",
-  "symbol": "MASS",
-  "description": "Midnight Mass",
-  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/Midnightmasswinneer.png",
-  "seller_fee_basis_points": 0
+  "name": "Midnight Mass Token",
+  "symbol": "MMT",
+  "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/midnight_mass_token_logo.png",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "Ea8fh4f4B17j3UGhkvpnfr3KCcXEzJdPseK2vzCie5fy",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
