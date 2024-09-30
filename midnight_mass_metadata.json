@@ -1,23 +1,14 @@
+JSON
 {
   "name": "Midnight Mass",
   "symbol": "MASS",
-  "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
+  "uri": "",
   "seller_fee_basis_points": 0,
-  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
   "creators": [
     {
       "address": "Ea8fh4f4B17j3UGhkvpnfr3KCcXEzJdPseK2vzCie5fy",
       "verified": true,
       "share": 100
     }
-  ],
-  "properties": {
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
-        "type": "image/png"
-      }
-    ],
-    "category": "image"
-  }
+  ]
 }
