@@ -1,0 +1,30 @@
+{
+  "name": "Midnight Mass",
+  "symbol": "MASS",
+  "description": "Midnight Mass Meme Coin",
+  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/Midnightmasswinneer.png",
+  "seller_fee_basis_points": 0,
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Meme"
+    },
+    {
+      "trait_type": "Genre",
+      "value": "Gaming"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Legendary"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/Midnightmasswinneer.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
