@@ -1,13 +1,22 @@
 {
   "name": "Midnight Mass",
   "symbol": "MASS",
-  "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
+  "description": "Midnight Mass Meme Coin",
+  "image": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
   "seller_fee_basis_points": 0,
-  "creators": [
+  "attributes": [
     {
-      "address": "Ea8fh4f4B17j3UGhkvpnfr3KCcXEzJdPseK2vzCie5fy",
-      "verified": true,
-      "share": 100
+      "trait_type": "Community",
+      "value": "Midnight Mass"
     }
-  ]
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/MidnightMassPlatform/midnight-mass-token-metadata/main/MidnightMasComp.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
 }
